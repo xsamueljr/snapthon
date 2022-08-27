@@ -6,7 +6,8 @@ print("1 para vídeo, 2 para playlist")
 mult = input()
 link = input("Pega su enlace: ")
 route = input("Pega la ruta: ")
-ft = input("1 for video, 2 for audio")
+print("1 para vídeo, 2 para audio")
+ft = input()
 format = input("¿Usar formatos mp4 y mp3? [s/n]: ")
 if format == "s":
     if ft == "1":
