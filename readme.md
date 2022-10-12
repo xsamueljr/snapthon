@@ -1,7 +1,5 @@
-v2: Vídeo en MP4 y audio en MP3
+# Descripción
+Es una Jypiter Notebook pensada para ejecutarse con Google Colab que sirve para descargar vídeos de YouTube
 
-v3: Formato personalizable
-
-v4: Elegir calidad de vídeo igual o inferior a 720p
-
-v5: Corregido un error que no permitía descargar un vídeo que tuviera una / en el nombre. Añadida una opción para descargar playlists. Formatos personalizables con una opción para usar los recomendados por mí (mp4 y mp3)
+# Cómo funciona
+Simplemente entra a "Snapthon.ipynb", haz click en "Open in Colab", ejecuta todas las celdas y atento a cuando te pidan datos. Serán cosas como si quieres un sólo vídeo, varios o una Playlist, el formato, etc
