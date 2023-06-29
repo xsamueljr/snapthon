@@ -1,0 +1,1 @@
+Ésta carpeta está hecha, en teoría, con la idea de hacer que Snapthon también sea un paquete instalable con el que usar pytube de manera más sencilla. Pero de momento no tengo nada hecho, estoy refinando el cuaderno todavía
